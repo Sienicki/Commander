@@ -32,7 +32,9 @@ namespace Commander
             services.AddDbContext<CommanderContext>(opt => opt.UseSqlServer
                 (Configuration.GetConnectionString("Commanderonnection")));
             services.AddControllers();
-            services.AddScoped<ICommanderRepo, MockCommanderRepo>();
+            //services.AddScoped<ICommanderRepo, MockCommanderRepo>();
+            services.AddScoped<ICommanderRepo, SqlCommanderRepo>();
+
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "Commander", Version = "v1" });
