@@ -11,7 +11,7 @@ namespace Commander.Data
             {
                 new Command { Id = 0, HowTo = "Boil an egg", Line = "Boil water", Platform = "Kettle & Pan"},
                 new Command { Id = 1, HowTo = "Google", Line = "Type in Search", Platform = "Computer"},
-                new Command { Id = 3, HowTo = "Drive", Line = "Push Gas", Platform = "Car"}
+                new Command { Id = 2, HowTo = "Drive", Line = "Push Gas", Platform = "Car"}
             };
         return commands;
         }
