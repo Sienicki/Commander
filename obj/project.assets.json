@@ -5621,11 +5621,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\justi\\source\\repos\\Commander\\Commander\\Commander.csproj",
+      "projectUniqueName": "C:\\Users\\justi\\source\\repos\\Commander\\Commander.csproj",
       "projectName": "Commander",
-      "projectPath": "C:\\Users\\justi\\source\\repos\\Commander\\Commander\\Commander.csproj",
+      "projectPath": "C:\\Users\\justi\\source\\repos\\Commander\\Commander.csproj",
       "packagesPath": "C:\\Users\\justi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\justi\\source\\repos\\Commander\\Commander\\obj\\",
+      "outputPath": "C:\\Users\\justi\\source\\repos\\Commander\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\justi\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s8pK8JbEmcAUdDJscEielbuzu8mxSOFGxkNH+92HKPFI4uYksXfxqKpgP6ahvrP6Gi62jqY6oymFlIgWyVLEdA==",
+  "dgSpecHash": "ZdR+QEtXY0Y+WquRpcPeZngCTdxdSn33zoTfk6eAhfd8lH87NFqxdFtCkKuYtgLtU/oVy2a8B61cxFqGFLhHHw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\justi\\source\\repos\\Commander\\Commander\\Commander.csproj",
+  "projectFilePath": "C:\\Users\\justi\\source\\repos\\Commander\\Commander.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\justi\\.nuget\\packages\\automapper\\10.1.0\\automapper.10.1.0.nupkg.sha512",
     "C:\\Users\\justi\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
