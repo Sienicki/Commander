@@ -9,7 +9,7 @@ using System.Collections.Generic;
 namespace Commander.Controllers
 {
     //api/commands  -- if you change name of class this route will change as well [controler]
-    [Route("api/[controller]")]
+    [Route("api/commands")]
     [ApiController]
     public class CommandsController : ControllerBase
     {
